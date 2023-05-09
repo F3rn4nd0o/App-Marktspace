@@ -16,7 +16,7 @@ export function HomeHeader() {
 			justifyContent="center"
 		>
 			<UserPhoto
-				source={{ uri: 'https://github.com/mgckaled.png' }}
+				source={{ uri: 'https://github.com/F3rn4nd0o.png' }}
 				size={12}
 				alt="Imagem do usuário"
 				mr={4}
